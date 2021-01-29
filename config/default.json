@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "myweight",
+  "mongoUrl": "mongodb+srv://aleksei:n47wQx0l7rNjITOm@cluster0.lpzho.mongodb.net/myweight",
+  "baseUrl": "http://localhost:5000"
+}
